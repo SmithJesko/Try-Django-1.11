@@ -1,0 +1,7 @@
+.vscode
+include
+Lib
+Scripts
+tcl
+pip-selfcheck.json
+src/db.sqlite3
