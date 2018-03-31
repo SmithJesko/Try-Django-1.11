@@ -3,5 +3,4 @@ from django.shortcuts import render
 
 
 def home(request):
-    return HttpResponse("Hello")
-    # return render(request, "home.html", {})
+    return render(request, "base.html", {'var': 'tutorial'})
