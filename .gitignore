@@ -5,3 +5,4 @@ Scripts
 tcl
 pip-selfcheck.json
 src/db.sqlite3
+__pycache__
